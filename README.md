@@ -12,7 +12,7 @@
 5 - Verificar se as tabelas da aplicação foram criadas. 
 
 6 - Verificar no teste, se foram lançados os log's de controle.
-
+______________________________________________________________________________________________________________________________________________________________________________________________
 English: 
 # Example of how to make a JPA application, with all entity relationships, OneToOne, ManyToOne, OneToMany, ManyToMany, using Hibernate acessing MySql
 
